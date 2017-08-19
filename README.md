@@ -6,4 +6,5 @@
 <p>http://images.thoughtbot.com/ember-rails-terminology-differences/ember.png</p>
 <p>2. Learn Ember</p>
 <p>https://guides.emberjs.com/v2.14.0/getting-started/</p>
-
+<p>3. Build App: Step by Step</p>
+<p>http://yoember.com/</p>
